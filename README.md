@@ -66,8 +66,8 @@ These communities and social media accounts are moderated and maintained by the 
 
 ## Contributing
 
-> ℹ️ : We ask that all users read our [code of conduct](#code-of-conduct) before contributing to Anytype community.
-> Anytype community welcomes contributions and corrections. Before contributing, please make sure you have read the guidelines below. If you decide to contribute anything, please follow the steps below. If you're new to \_git\* and/or _GitHub_, we suggest you go through [the GitHub Guides](https://guides.github.com/introduction/flow/).
+> ℹ️ : We ask that all users read our [Code of Conduct](#code-of-conduct) before contributing to the community.
+> Anytype welcomes all contributions and corrections. Please follow the steps below in order to contribute. If you're new to \_git\* and/or _GitHub_, we suggest you go through [the GitHub Guides](https://guides.github.com/introduction/flow/).
 
 1. Fork this repository
 2. (Optional) Clone the fork
@@ -84,7 +84,7 @@ These communities and social media accounts are moderated and maintained by the 
      gh repo clone anytypeio/community -- --filter=tree:0
      ```
 3. Create a new branch from the latest `main`
-4. Start hacking on the new branch
+4. Make your changes on the new branch
 5. Commit and push to the new branch
 6. Make a pull request
 
