@@ -57,16 +57,16 @@ These communities and social media accounts are moderated and maintained by the 
 - [**Twitter**](https://twitter.com/anytypelabs)
 - [**Youtube**](https://www.youtube.com/channel/UCIqBAGm9K8MLS0btbXr9JkQ/featured)
 
-### Community Created
+### Independent
 
-> **Disclaimer** **●︎** These communities, social media accounts and platforms have been created, moderated and maintained by members of the Anytype community. Anytype does not have any say in the functioning and governing of these communities. Our maintaining of this list is not an endorsement.
+> ℹ️ These communities have been created, moderated and maintained by members of the Anytype community. However, Anytype does not have any say in the functioning and governing of these communities. Our maintaining of this list is not an endorsement.
 
 - **Telegram**
   - [**Anytype Chinese**](https://t.me/anytype_cn)
 
 ## Contributing
 
-> ℹ️ : We ask that all users read our [Code of Conduct](#code-of-conduct) before contributing to the community.
+> ℹ️ We ask that all users read our [Code of Conduct](#code-of-conduct) before contributing to the community.
 > Anytype welcomes all contributions and corrections. Please follow the steps below in order to contribute. If you're new to \_git\* and/or _GitHub_, we suggest you go through [the GitHub Guides](https://guides.github.com/introduction/flow/).
 
 1. Fork this repository
