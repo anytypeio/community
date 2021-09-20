@@ -8,6 +8,7 @@
 
 - [**Code Of Conduct**](#code-of-conduct)
 - [**List of Communities and Social Platforms**](#list-of-communities-and-social-platforms)
+- [**Independent Packages**](#independent-packages)
 - [**Contributing**](#contributing)
 
 ## Code of Conduct
@@ -63,6 +64,10 @@ These communities and social media accounts are moderated and maintained by the 
 
 - **Telegram**
   - [**Anytype Chinese**](https://t.me/anytype_cn)
+
+## Independent Packages
+
+- [**AUR**](https://aur.archlinux.org/packages/anytype-bin) *Managed by* [**Lucas Maximiliano Marino**](https://github.com/elementh)
 
 ## Contributing
 
