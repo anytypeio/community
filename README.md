@@ -68,6 +68,7 @@ These communities and social media accounts are moderated and maintained by the 
 ## Independent Packages
 
 - [**AUR**](https://aur.archlinux.org/packages/anytype-bin) *Managed by* [**Lucas Maximiliano Marino**](https://github.com/elementh)
+- [**NIXOS PKG**](https://search.nixos.org/packages?channel=unstable&show=anytype&from=0&size=50&sort=relevance&type=packages&query=anytype) *Managed by* [**Bruno Bigras**](https://github.com/bbigras)
 
 ## Contributing
 
