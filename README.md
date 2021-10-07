@@ -65,7 +65,7 @@ These communities and social media accounts are moderated and maintained by the 
 - **Telegram**
   - [**Anytype Chinese**](https://t.me/anytype_cn)
 - **Matrix**
-  - [**Community**](#anytype:matrix.org)
+  - [**Community**](https://app.element.io/#/room/#anytype:matrix.org)
 ## Independent Packages
 
 - [**AUR**](https://aur.archlinux.org/packages/anytype-bin) *Managed by* [**Lucas Maximiliano Marino**](https://github.com/elementh)
