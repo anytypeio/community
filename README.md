@@ -50,7 +50,7 @@ We do not tolerate unacceptable behaviour from any community member. If asked, w
 
 These communities and social media accounts are moderated and maintained by the Anytype team.
 
-- [**Discord**](https://discord.gg/kkvvUrSphq)
+- [**Discord**](https://discord.gg/anytype)
 - [**Forum**](https://community.anytype.io)
 - [**LinkedIn**](https://www.linkedin.com/company/anytype)
 - [**Reddit**](https://www.reddit.com/r/anytype)
