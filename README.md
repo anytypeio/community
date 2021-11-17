@@ -6,8 +6,10 @@
 
 ## Table of Contents
 
-- [**Code Of Conduct**](#code-of-conduct)
-- [**List of Communities and Social Platforms**](#list-of-communities-and-social-platforms)
+- [**Code of Conduct**](#code-of-conduct)
+- [**List of Communities and Social platforms**](#list-of-communities-and-social-platforms)
+  - [**Official**](#official)
+  - [**Independent**](#independent)
 - [**Independent Packages**](#independent-packages)
 - [**Contributing**](#contributing)
 
